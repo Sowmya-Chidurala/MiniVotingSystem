@@ -112,13 +112,6 @@ Thanks for voting!
 
 This is a simple educational project, but if you'd like to contribute or extend it — feel free! Suggestions, bug reports, and pull requests are always welcome.
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE). You're free to use, modify, and distribute it with credit.
-
----
 
 ## 👩‍💻 Author
 
