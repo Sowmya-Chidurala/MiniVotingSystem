@@ -1,16 +1,4 @@
-# MiniVotingSystem
-Of course! Here's an enhanced version of the `README.md` that still feels **natural and human-written**, but now includes **more detailed sections**, such as:
-
-* Introduction
-* Candidate info
-* Output sample
-* Customization tips
-* Contribution guide (optional)
-
----
-
-````markdown
-# 🗳️ Mini Voting System in C
+#🗳️ Mini Voting System in C
 
 Welcome to the **Mini Voting System** — a simple yet effective C project that simulates a basic voting process through a command-line interface. This program allows users to vote for candidates, view current vote counts, and see who's leading. It’s a great learning project for students and beginners exploring file handling and user input in C.
 
@@ -139,9 +127,4 @@ Made with ❤️ as a beginner-level C programming project.
 
 If you find this useful, give the repo a ⭐ and share it with fellow learners!
 
----
-
-```
-
-Let me know if you want a markdown file ready to download or if you'd like help generating a LICENSE file and `.gitignore` too!
-```
+``
